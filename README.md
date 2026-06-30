@@ -1,5 +1,8 @@
 # tetris_java
+
 My implementation of the classis Tetris game in Java. 
+
+You can download it from [Releases](https://github.com/makaragiannis/tetris_java/releases/). Once you download the .jar file, right click and open it with Java to run it.
 
 ---
 
